@@ -584,3 +584,4 @@ export const RightPropertyPanel = React.memo(
     );
   }
 );
+RightPropertyPanel.displayName = "RightPropertyPanel";
